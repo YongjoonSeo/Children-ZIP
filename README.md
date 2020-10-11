@@ -1,6 +1,6 @@
 [<img src="./img/banner.JPG" width=100%>](http://childrenzip.site)
 
-![Github](https://img.shields.io/badge/vue-2.6.11-%234FC08D?style=plastic&logo=Vue.js)![Github](https://img.shields.io/pypi/djversions/djangorestframework?color=green&label=django&logo=django&style=plastic)![Github](https://img.shields.io/badge/MySQL-8.0-%234479A1?style=plastic&logo=mysql)![Github](https://img.shields.io/badge/build-passing-brightgreen?style=plastic)
+![Github](https://img.shields.io/badge/vue-2.6.11-%234FC08D?style=plastic&logo=Vue.js)  ![Github](https://img.shields.io/pypi/djversions/djangorestframework?color=green&label=django&logo=django&style=plastic)  ![Github](https://img.shields.io/badge/MySQL-8.0-%234479A1?style=plastic&logo=mysql)  ![Github](https://img.shields.io/badge/build-passing-brightgreen?style=plastic)
 
 <br>
 
