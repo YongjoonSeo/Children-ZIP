@@ -147,7 +147,7 @@ Content-Based Filtering 기법과 User-Based Collaborative Filtering 기법을 �
 
 > 아래 이미지를 클릭하면 시연 영상을 시청할 수 있습니다.
 
-[![어린이ZIP 시연영상](https://img.youtube.com/vi/qOEFXODnMOA/hqdefault.jpg)](https://youtu.be/qOEFXODnMOA)
+[![어린이ZIP 시연영상](https://img.youtube.com/vi/qOEFXODnMOA/hqdefault.jpg)](https://youtu.be/ILn-RNpieGo)
 
 <br>
 
